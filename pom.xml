@@ -95,13 +95,13 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>searise Technologies Releases Nexus Repository</name>
-	      <url>http://54.227.57.78:8081/repository/sea-releases/</url>
+	      <url>http://54.227.57.78:8081/repository/mercedes-releases/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
-	      <name>searise Technologies Snapshot Nexus Repository </name>
-	      <url>http://54.227.57.78:8081/repository/sea-snapshot/</url>
+	      <name>searise Technologies Snapshot Nexus Repository</name>
+	      <url>http://54.227.57.78:8081/repository/mercedes-snapshot/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
